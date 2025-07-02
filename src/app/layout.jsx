@@ -1,5 +1,5 @@
-import '@/app/ui/global.css'; // Import global styles
-import { inter } from '@/app/ui/fonts'; // Import the Inter font
+import '../app/ui/global.css'; // Import global styles
+import { inter } from '../app/ui/fonts'; // Import the Inter font
 
  
 
